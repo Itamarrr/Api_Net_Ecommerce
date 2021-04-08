@@ -126,6 +126,12 @@ namespace ProjetoAPI02.Services
                 }));
 
             #endregion
+
+            #region Configuração do AutoMapper
+
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+            #endregion
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
