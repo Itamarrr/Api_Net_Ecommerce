@@ -1,0 +1,3 @@
+Devido problema com a nomecratura da pasta 
+pesso que crie uma pasta com esse nome ProjetoAPI02
+em seguida jogue o conteudo da pasta que foi baixada do git dentro dela 
